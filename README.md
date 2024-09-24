@@ -1,3 +1,3 @@
 # git-test
 
-haaaaa!!!
+GIｔの練習用リポジトリ
